@@ -1,6 +1,7 @@
 # New York AirBnB Data Analysis
 
 Objective
+
 The objective of this project is to perform Exploratory Data Analysis (EDA) on the New York City AirBnB dataset to understand patterns in pricing, availability, and neighborhood popularity. The analysis helps stakeholders such as hosts, tourists, and analysts make informed decisions.
 
 Goals of the Project
