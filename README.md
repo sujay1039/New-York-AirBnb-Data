@@ -45,5 +45,5 @@ Outcomes / Results
 - Several entries had missing review data, which was cleaned to avoid errors.
 - Visualizations clearly highlighted how room type and location impact pricing.
 
-Conclusion
+Conclusion 
 This analysis helps understand how various factors like location, room type, and availability influence AirBnB listing prices in New York. With clean data and compelling visualizations, this project offers valuable insights for hosts, tourists, and data analysts alike.
